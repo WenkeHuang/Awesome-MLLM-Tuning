@@ -7,7 +7,7 @@
 <!--     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a> -->
     <img src="https://badges.toozhao.com/badges/01JNMP5KB247X0F52D94216CT0/blue.svg" alt="Custom Badge" />
     <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg" alt="License Badge"></a>
-    <a href="[https://github.com/WenkeHuang/Awesome-MLLM-Tuning](https://github.com/WenkeHuang/Awesome-MLLM-Tuning)"><img src="https://img.shields.io/github/stars/WenkeHuang/Awesome-MLLM-Tuning?style=social" alt="GitHub stars"></a>
+    <a href="https://github.com/WenkeHuang/Awesome-MLLM-Tuning"><img src="https://img.shields.io/github/stars/WenkeHuang/Awesome-MLLM-Tuning?style=social" alt="GitHub stars"></a>
 </p>
 
 <h2> 🙌 Abstract </h2>
