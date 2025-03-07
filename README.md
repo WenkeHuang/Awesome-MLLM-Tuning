@@ -27,3 +27,25 @@ MLLM architectures and diverse downstream tasks to establish standardized evalua
 principles. Finally, we highlight several open challenges in this domain and propose future research directions. 
 
 
+<h2 id="contact"> 👋 Contact </h2>
+
+This repository is currently maintained by [Wenke Huang](https://wenkehuang.github.io/) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [wenkehuang@whu.edu.cn](mailto:wenkehuang@whu.edu.cn) 📧.
+
+<h2 id="citation"> 🥳 Citation </h2>
+
+Please kindly cite this paper in your publications if it helps your research:
+
+```bibtex
+@misc{MLLMTuning_arXiv25,
+      title={Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model}, 
+      author={Wenke Huang, Jian Liang, Xianda Guo, Yiyang Fang, Guancheng Wan, Xuankun Rong, Chi Wen, Zekun Shi,  Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye, Bo Du},
+      year={2025},
+      eprint={2503.04543},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+```
+
+**You Only Live Once.**
+
+**I hope that all players hav fun.**
