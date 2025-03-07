@@ -48,4 +48,4 @@ Please kindly cite this paper in your publications if it helps your research:
 
 **You Only Live Once.**
 
-**I hope that all players hav fun.**
+**I hope that all players have fun.**
