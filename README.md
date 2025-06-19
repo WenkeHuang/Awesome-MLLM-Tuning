@@ -27,13 +27,16 @@ MLLM architectures and diverse downstream tasks to establish standardized evalua
 principles. Finally, we highlight several open challenges in this domain and propose future research directions. 
 
 
+<h2 id="contact"> 📖 Paper </h2>
+
+
 <h2 id="contact"> 👋 Contact </h2>
 
 This repository is currently maintained by [Wenke Huang](https://wenkehuang.github.io/) 👨‍💻. If you have any questions, concerns, or suggestions regarding the contents of this repository or the resources shared here, feel free to reach out! I'm more than happy to assist you with any inquiries or help you navigate through the materials. Please don't hesitate to send an email to me at [wenkehuang@whu.edu.cn](mailto:wenkehuang@whu.edu.cn) 📧 or <a href="assert/wechat.jpg">Wechat</a> 🤗.
 
 <h2 id="citation"> 🥳 Citation </h2>
 
-Please kindly cite this paper in your publications if it helps your research:
+If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. ✨
 
 ```bibtex
 @misc{MLLMTuning_arXiv25,
