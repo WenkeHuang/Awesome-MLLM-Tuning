@@ -25,31 +25,40 @@ Multi-modal Large Language Models (MLLMs) integrate visual and linguistic reason
 
 | Time    | Title                                                        | Venue | Paper | Code |
 | ------- | ------------------------------------------------------------ | :---: | :---: | :--: |
-| 2025.02 | **REMEDY: Recipe merging dynamics in large vision-language models** | ICLR’25 | [link](https://openreview.net/forum?id=iX7eHHE5Tx) | - |
-|         | ****                                                         | ACL’24 | [link]() | [link]() |
-|         | ****                                                         | EMNLP’24 | [link]() | [link]() |
-|         | ****                                                         | ACL’24 | [link]() | [link]() |
-|         | ****                                                         | ICML’24 | [link]() | [link]() |
-|         | ****                                                         | arXiv’24 | [link]() | [link]() |
-|         | ****                                                         | arXiv’24 | [link]() | [link]() |
-|         | ****                                                         | COLM’24 | [link]() | [link]() |
-|         | ****                                                         | ICLR’24 | [link]() | [link]() |
-|         | ****                                                         | CVPR’24 | [link]() | [link]() |
-|         | ****                                                         | arXiv’24 | [link]() | [link]() |
-|         | ****                                                         | NeurIPS’24 | [link]() | [link]() |
+| 2025.02 | **REMEDY: Recipe merging dynamics in large vision-language models** | ICLR'25 | [link](https://openreview.net/forum?id=iX7eHHE5Tx) | - |
+| 2023.12 | **Loramoe: Alleviating world knowledge forgetting in large language models via moe-style plugin** | ACL'24 | [link](https://arxiv.org/abs/2312.09979) | [link](https://github.com/Ablustrund/LoRAMoE) |
+| 2024.06 | **Mixture-of-subspaces in low-rank adaptation** | EMNLP'24 | [link](https://arxiv.org/abs/2406.11909) | [link](https://github.com/wutaiqiang/MoSLoRA) |
+| 2024.02 | **Multimodal instruction tuning with conditional mixture of lora** | ACL'24 | [link](https://arxiv.org/abs/2402.15896) | [link](https://github.com/PLUM-Lab/MixLoRA) |
+| 2024.05 | **Parameter-Efficient Fine-Tuning with Discrete Fourier Transform** | ICML'24 | [link](https://arxiv.org/abs/2405.03003) | [link](https://github.com/Chaos96/fourierft) |
+| 2024.12 | **Lora.rar: Learning to merge loras via hypernetworks for subject-style conditioned image generation** | ICCV'25 | [link](https://arxiv.org/abs/2412.05148) | [link](https://github.com/donaldssh/LoRA.rar) |
+| 2024.08 | **Teamlora: Boosting low-rank adaptation with expert collaboration and competition** | arXiv'24 | [link](https://arxiv.org/abs/2408.09856) | [link](https://github.com/Lin-Tianwei/TeamLoRA) |
+| 2023.07 | **Lorahub: Efficient cross-task generalization via dynamic lora composition** | COLM'24 | [link](https://arxiv.org/abs/2307.13269) | [link](https://github.com/sail-sg/lorahub) |
+| 2023.10 | **Vera: Vectorbased random matrix adaptation** | ICLR'24 | [link](https://arxiv.org/abs/2310.11454) | [link](https://huggingface.co/docs/peft/main/en/package_reference/vera) |
+| 2024.03 | **Mtlora: Low-rank adaptation approach for efficient multi-task learning** | CVPR'24 | [link](https://arxiv.org/abs/2403.20320) | [link](https://github.com/scale-lab/MTLoRA) |
+| 2024.06 | **Sharelora: Parameter efficient and robust large language model fine-tuning via shared low-rank adaptation** | arXiv'24 | [link](https://arxiv.org/abs/2406.10785) | [link](https://github.com/Rain9876/ShareLoRA) |
+| 2024.06 | **Twinmerging: Dynamic integration of modular expertise in model merging** | NeurIPS'24 | [link](https://arxiv.org/abs/2406.15479) | [link](https://github.com/LZY-the-boys/Twin-Merging) |
+
 
 #### Calibration Reparameterization Tuning
 
 | Time    | Title                                                        | Venue | Paper | Code |
 | ------- | ------------------------------------------------------------ | :---: | :---: | :--: |
-|         | ****                                                         |       | [link]() | [link]() |
-|         | ****                                                         |       | [link]() | [link]() |
-|         | ****                                                         |       | [link]() | [link]() |
-|         | ****                                                         |       | [link]() | [link]() |
-|         | ****                                                         |       | [link]() | [link]() |
-|         | ****                                                         |       | [link]() | [link]() |
-|         | ****                                                         |       | [link]() | [link]() |
-|         | ****                                                         |       | [link]() | [link]() |
+| 2025.03 | **Lorasculpt: Sculpting lora for harmonizing general and specialized knowledge in multimodal large language models** | CVPR'25 | [link](https://arxiv.org/abs/2503.16843) | [link](https://github.com/LiangJian24/LoRASculpt) |
+| 2024.10 | **Controlled low-rank adaptation with subspace regularization for continued training on large language models** | arXiv'24 | [link](https://arxiv.org/abs/2410.16801) | - |
+| 2024.03 | **Lora meets dropout under a unified framework** | ACL'24 | [link](https://arxiv.org/abs/2403.00812) | - |
+| 2024.02 | **Lora+: Efficient low rank adaptation of large models** | ICML'24 | [link](https://arxiv.org/abs/2402.12354) | [link](https://github.com/nikhil-ghosh-berkeley/loraplus) |
+| 2024.02 | **Dora: Weight-decomposed low-rank adaptation** | ICML'24 | [link](https://arxiv.org/abs/2402.09353) | [link](https://github.com/NVlabs/DoRA) |
+| 2024.02 | **Flora: Low-rank adapters are secretly gradient compressors** | ICML'24 | [link](https://arxiv.org/abs/2402.03293) | [link](https://github.com/BorealisAI/flora-opt) |
+| 2024.06 | **Corda: Context-oriented decomposition adaptation of large language models for task-aware parameter-efficient fine-tuning** | NeurIPS'24 | [link](https://arxiv.org/abs/2406.05223) | [link](https://github.com/iboing/CorDA) |
+| 2024.06 | **Milora: Harnessing minor singular components for parameter-efficient llm finetuning** | NAACL'25 | [link](https://arxiv.org/abs/2406.09044) | [link](https://github.com/sufenlp/MiLoRA) |
+| 2024.04 | **Pissa: Principal singular values and singular vectors adaptation of large language models** | NeurIPS'24 | [link](https://arxiv.org/abs/2404.02948) | [link](https://github.com/GraphPKU/PiSSA) |
+| 2024.02 | **Melora: mini-ensemble low-rank adapters for parameterefficient fine-tuning** | ACL'24 | [link](https://arxiv.org/abs/2402.17263) | [link](https://github.com/ChasonShi/MELoRA) |
+| 2024.02 | **Prolora: Partial rotation empowers more parameter-efficient lora** | ACL'24 | [link](https://arxiv.org/abs/2402.16902) | [link](https://github.com/Forence1999/PRoLoRA) |
+| 2024.07 | **Learn to preserve and diversify: Parameter-efficient group with orthogonal regularization for domain generalization** | ECCV'24 | [link](https://arxiv.org/abs/2407.15085) | [link](https://github.com/JudgingH/PEGO) |
+| 2024.03 | **Bilora: A bi-level optimization framework for overfitting-resilient low-rank adaptation of large pre-trained models** | arXiv'24 | [link](https://arxiv.org/abs/2403.13037) | [link](https://openreview.net/attachment?id=Svy1XoOLXj&name=supplementary_material) |
+| 2023.08 | **Bayesian low-rank adaptation for large language models** | ICLR'24 | [link](https://arxiv.org/abs/2308.13111) | [link](https://github.com/MaximeRobeyns/bayesian_lora) |
+
+
 
 ## 👋 Contact
 
