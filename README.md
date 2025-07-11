@@ -79,11 +79,38 @@ If you find this repository helpful for your research, we would greatly apprecia
       archivePrefix={arXiv},
       primaryClass={cs.CR}
 }
+
+@inproceedings{LiangLoRASculpt_CVPR2025,
+    author    = {Liang, Jian and Huang, Wenke and Wan, Guancheng and Yang, Qu and Ye, Mang},
+    title     = {LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models},
+    booktitle = {CVPR},
+    year      = {2025},
+}
+
+@inproceedings{FangSEPM_ICML2025,
+  title     = {Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models},
+  author    = {Fang, Yiyang and Liang, Jian and Huang, Wenke and Li, He and Su, Kehua and Ye, Mang},
+  booktitle = {ICML},
+  year      = {2025},
+}
+
+@article{ye2025survey,
+  title={A survey of safety on large vision-language models: Attacks, defenses and evaluations},
+  author={Ye, Mang and Rong, Xuankun and Huang, Wenke and Du, Bo and Yu, Nenghai and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2502.14881},
+  year={2025}
+}
 ```
 
 
 
 
+## 🔍 Relevant Projects
+[1] LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models - CVPR 2025 [[Link](https://arxiv.org/abs/2503.16843)][[Code](https://github.com/LiangJian24/LoRASculpt)]
+
+[2] Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models - ICML 2025 [[Link](https://openreview.net/forum?id=IYOksPHJKT)][[Code](https://github.com/fuyyyyy/SEPM)]
+
+[3] A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations - arXiv 2025 [[Link](https://arxiv.org/abs/2502.14881)][[Code](https://github.com/XuankunRong/Awesome-LVLM-Safety)]
 
 
 
