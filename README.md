@@ -19,6 +19,40 @@ Multi-modal Large Language Models (MLLMs) integrate visual and linguistic reason
 
 ## 📖 Paper
 
+### Selective Tuning
+
+#### Iterative Selective Tuning
+
+| Time    | Title                                                        | Venue | Paper | Code |
+| ------- | ------------------------------------------------------------ | :---: | :---: | :--: |
+| 2024.11 | **Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning** | ICML'25 | [link](https://arxiv.org/abs/2411.10928) | - |
+| 2024.10 | **AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models** | ICLR'24 | [link](https://arxiv.org/abs/2410.02355) | [link](https://github.com/jianghoucheng/alphaedit) |
+| 2023.12 | **Sparse is Enough in Fine-tuning Pre-trained Large Language Models** | ICML'24 | [link](https://arxiv.org/abs/2312.11875) | [link](https://github.com/song-wx/sift) |
+| 2023.12 | **Gradient-based Parameter Selection for Efficient Fine-Tuning** | CVPR'24 | [link](https://arxiv.org/abs/2312.10136) | [link](https://arxiv.org/abs/2312.10136) |
+| 2023.11 | **Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning** | EMNLP'23 | [link](https://arxiv.org/abs/2311.03748) | [link](https://github.com/psunlpgroup/fish-dip) |
+| 2023.08 | **Overcoming Generic Knowledge Loss with Selective Parameter Update** | CVPR'24 | [link](https://arxiv.org/abs/2308.12462) | [link](https://github.com/wx-zhang/spu) |
+| 2023.06 | **LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation** | ICML'23 | [link](https://arxiv.org/abs/2306.11222) | - |
+| 2022.10 | **ROSE: Robust Selective Fine-tuning for Pre-trained Language Models** | IJCAI'22 | [link](https://arxiv.org/abs/2210.09658) | [link](https://github.com/jiangllan/rose) |
+| 2022.05 | **Parameter-Efficient Sparsity for Large Language Models Fine-Tuning** | IJCAI'22 | [link](https://arxiv.org/abs/2205.11005) | [link](https://github.com/alibaba/AliceMind) |
+| 2021.10 | **Composable Sparse Fine-Tuning for Cross-Lingual Transfer** | ACL'22 | [link](https://arxiv.org/abs/2110.07560) | [link](https://github.com/cambridgeltl/composable-sft) |
+| 2021.09 | **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning** | EMNLP'21 | [link](https://arxiv.org/abs/2109.05687) | [link](https://github.com/alibaba/AliceMind) |
+| 2015.06 | **Learning both Weights and Connections for Efficient Neural Networks** | NeurIPS'15 | [link](https://arxiv.org/abs/1506.02626) | - |
+
+
+#### Posterior Selective Tuning
+
+| Time    | Title                                                        | Venue | Paper | Code |
+| ------- | ------------------------------------------------------------ | :---: | :---: | :--: |
+| 2024.12 | **Revisiting Weight Averaging for Model Merging** | arXiv'24 | [link](https://arxiv.org/abs/2412.12153) | [link](https://github.com/JH-GEECS/CART_public) |
+| 2024.10 | **Parameter Competition Balancing for Model Merging** | NeurIPS'24 | [link](https://arxiv.org/abs/2410.02396) | [link](https://github.com/duguodong7/pcb-merging) |
+| 2024.06 | **Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging** | NeurIPS'24 | [link](https://arxiv.org/abs/2406.15479) | [link](https://github.com/LZY-the-boys/Twin-Merging) |
+| 2024.05 | **TEMR-Merging: Tuning-Free High-Performance Model Merging** | NeurIPS'24 | [link](https://arxiv.org/abs/2405.17461) | [link](https://github.com/harveyhuang18/emr_merging) |
+| 2024.02 | **Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models** | ICML'24 | [link](https://arxiv.org/abs/2402.12048) | - |
+| 2023.11 | **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch** | ICML'24 | [link](https://arxiv.org/abs/2311.03099) | [link](https://github.com/yule-buaa/mergelm) |
+| 2023.06 | **TIES-Merging: Resolving Interference When Merging Models** | NeurIPS'23 | [link](https://arxiv.org/abs/2306.01708) | [link](https://github.com/prateeky2806/ties-merging) |
+| 2021.11 | **Merging Models with Fisher-Weighted Averaging** | NeurIPS'22 | [link](https://arxiv.org/abs/2111.09832) | [link](https://github.com/mmatena/model_merging) |
+
+
 ### Reparameterization Tuning
 
 #### Structure Reparameterization Tuning
