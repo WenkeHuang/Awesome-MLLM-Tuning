@@ -46,7 +46,7 @@ Multi-modal Large Language Models (MLLMs) integrate visual and linguistic reason
 | 2024.10 | **Parameter Competition Balancing for Model Merging** | NeurIPS'24 | [link](https://arxiv.org/abs/2410.02396) | [link](https://github.com/duguodong7/pcb-merging) |
 | 2024.06 | **Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging** | NeurIPS'24 | [link](https://arxiv.org/abs/2406.15479) | [link](https://github.com/LZY-the-boys/Twin-Merging) |
 | 2024.05 | **TEMR-Merging: Tuning-Free High-Performance Model Merging** | NeurIPS'24 | [link](https://arxiv.org/abs/2405.17461) | [link](https://github.com/harveyhuang18/emr_merging) |
-| 2024.02 | **Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models** | ICML'24 | [link](https://arxiv.org/abs/2402.12048) | - |
+| 2024.02 | **Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models** | ICML'24 | [link](https://arxiv.org/abs/2402.12048) | [link](https://github.com/didizhu-zju/Model-Tailor) |
 | 2023.11 | **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch** | ICML'24 | [link](https://arxiv.org/abs/2311.03099) | [link](https://github.com/yule-buaa/mergelm) |
 | 2023.06 | **TIES-Merging: Resolving Interference When Merging Models** | NeurIPS'23 | [link](https://arxiv.org/abs/2306.01708) | [link](https://github.com/prateeky2806/ties-merging) |
 | 2021.11 | **Merging Models with Fisher-Weighted Averaging** | NeurIPS'22 | [link](https://arxiv.org/abs/2111.09832) | [link](https://github.com/mmatena/model_merging) |
