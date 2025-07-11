@@ -30,7 +30,7 @@ Multi-modal Large Language Models (MLLMs) integrate visual and linguistic reason
 | 2023.12 | **Gradient-based Parameter Selection for Efficient Fine-Tuning** | CVPR'24 | [link](https://arxiv.org/abs/2312.10136) | [link](https://arxiv.org/abs/2312.10136) |
 | 2023.11 | **Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning** | EMNLP'23 | [link](https://arxiv.org/abs/2311.03748) | [link](https://github.com/psunlpgroup/fish-dip) |
 | 2023.08 | **Overcoming Generic Knowledge Loss with Selective Parameter Update** | CVPR'24 | [link](https://arxiv.org/abs/2308.12462) | [link](https://github.com/wx-zhang/spu) |
-| 2023.06 | **LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation** | ICML'23 | [link](https://arxiv.org/abs/2306.11222) | - |
+| 2023.06 | **LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation** | ICML'23 | [link](https://arxiv.org/abs/2306.11222) | [link](https://github.com/yxli2123/LoSparse) |
 | 2022.10 | **ROSE: Robust Selective Fine-tuning for Pre-trained Language Models** | IJCAI'22 | [link](https://arxiv.org/abs/2210.09658) | [link](https://github.com/jiangllan/rose) |
 | 2022.05 | **Parameter-Efficient Sparsity for Large Language Models Fine-Tuning** | IJCAI'22 | [link](https://arxiv.org/abs/2205.11005) | [link](https://github.com/alibaba/AliceMind) |
 | 2021.10 | **Composable Sparse Fine-Tuning for Cross-Lingual Transfer** | ACL'22 | [link](https://arxiv.org/abs/2110.07560) | [link](https://github.com/cambridgeltl/composable-sft) |
