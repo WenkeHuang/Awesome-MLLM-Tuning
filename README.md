@@ -94,11 +94,13 @@ If you find this repository helpful for your research, we would greatly apprecia
   year      = {2025},
 }
 
-@article{ye2025survey,
-  title={A survey of safety on large vision-language models: Attacks, defenses and evaluations},
-  author={Ye, Mang and Rong, Xuankun and Huang, Wenke and Du, Bo and Yu, Nenghai and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2502.14881},
-  year={2025}
+@misc{ye2025surveysafetylargevisionlanguage,
+      title={A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations}, 
+      author={Mang Ye and Xuankun Rong and Wenke Huang and Bo Du and Nenghai Yu and Dacheng Tao},
+      year={2025},
+      eprint={2502.14881},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
 }
 ```
 
