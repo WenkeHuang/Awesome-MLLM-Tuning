@@ -83,7 +83,7 @@ Multi-modal Large Language Models (MLLMs) integrate visual and linguistic reason
 | 2024.06 | **Milora: Harnessing minor singular components for parameter-efficient llm finetuning** | NAACL'25 | [link](https://arxiv.org/abs/2406.09044) | [link](https://github.com/sufenlp/MiLoRA) |
 | 2024.04 | **Pissa: Principal singular values and singular vectors adaptation of large language models** | NeurIPS'24 | [link](https://arxiv.org/abs/2404.02948) | [link](https://github.com/GraphPKU/PiSSA) |
 | 2024.03 | **Lora meets dropout under a unified framework** | ACL'24 | [link](https://arxiv.org/abs/2403.00812) | - |
-| 2024.03 | **Bilora: A bi-level optimization framework for overfitting-resilient low-rank adaptation of large pre-trained models** | arXiv'24 | [link](https://arxiv.org/abs/2403.13037) | [link](https://openreview.net/attachment?id=Svy1XoOLXj&name=supplementary_material) |
+| 2024.03 | **Bilora: A bi-level optimization framework for overfitting-resilient low-rank adaptation of large pre-trained models** | arXiv'24 | [link](https://arxiv.org/abs/2403.13037) | - |
 | 2024.02 | **Melora: mini-ensemble low-rank adapters for parameterefficient fine-tuning** | ACL'24 | [link](https://arxiv.org/abs/2402.17263) | [link](https://github.com/ChasonShi/MELoRA) |
 | 2024.02 | **Prolora: Partial rotation empowers more parameter-efficient lora** | ACL'24 | [link](https://arxiv.org/abs/2402.16902) | [link](https://github.com/Forence1999/PRoLoRA) |
 | 2024.02 | **Lora+: Efficient low rank adaptation of large models** | ICML'24 | [link](https://arxiv.org/abs/2402.12354) | [link](https://github.com/nikhil-ghosh-berkeley/loraplus) |
