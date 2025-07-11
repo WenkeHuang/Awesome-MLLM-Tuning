@@ -25,7 +25,6 @@ Multi-modal Large Language Models (MLLMs) integrate visual and linguistic reason
 
 | Time    | Title                                                        | Venue | Paper | Code |
 | ------- | ------------------------------------------------------------ | :---: | :---: | :--: |
-| 2024.11 | **Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning** | ICML'25 | [link](https://arxiv.org/abs/2411.10928) | - |
 | 2024.10 | **AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models** | ICLR'24 | [link](https://arxiv.org/abs/2410.02355) | [link](https://github.com/jianghoucheng/alphaedit) |
 | 2023.12 | **Sparse is Enough in Fine-tuning Pre-trained Large Language Models** | ICML'24 | [link](https://arxiv.org/abs/2312.11875) | [link](https://github.com/song-wx/sift) |
 | 2023.12 | **Gradient-based Parameter Selection for Efficient Fine-Tuning** | CVPR'24 | [link](https://arxiv.org/abs/2312.10136) | [link](https://arxiv.org/abs/2312.10136) |
