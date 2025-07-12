@@ -58,41 +58,42 @@ Multi-modal Large Language Models (MLLMs) integrate visual and linguistic reason
 #### Adapter Tuning
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2019.02 | **Parameter-Efficient Transfer Learning for NLP** | ICML'19  | [link](https://arxiv.org/abs/1902.00751) | [link](https://github.com/cs-mshah/Adapter-Bert) |
+| 2024.04 | **Conditional Prototype Rectification Prompt Learning** | TCSVT'25  | [link](https://arxiv.org/abs/2404.09872) | [link](https://github.com/chenhaoxing/CPR) |
+| 2023.11 | **Meta-Adapter: An Online Few-shot Learner for Vision-Language Model** | NeurIPS'23  | [link](https://arxiv.org/abs/2311.03774) | [link](https://github.com/ArsenalCheng/Meta-Adapter) |
+| 2023.09 | **GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph** | NeurIPS'23  | [link](https://arxiv.org/abs/2309.13625) | [link](https://github.com/lixinustc/GraphAdapter) |
+| 2023.04 | **Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement** | ICCV'23  | [link](https://arxiv.org/abs/2304.01195) | [link](https://github.com/yangyangyang127/APE) |
+| 2023.03 | **Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens** | CVPR'23  | [link](https://arxiv.org/abs/2303.14865) | [link](https://github.com/yuxiaochen1103/FDT) |
+| 2023.02 | **Side Adapter Network for Open-Vocabulary Semantic Segmentation** | CVPR'23  | [link](https://arxiv.org/abs/2302.12242) | [link](https://github.com/MendelXu/SAN) |
+| 2022.11 | **Task Residual for Tuning Vision-Language Models** | CVPR'23  | [link](https://arxiv.org/abs/2211.10277) | [link](https://github.com/geekyutao/TaskRes) |
 | 2022.06 | **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning** | NeurIPS'22 | [link](https://arxiv.org/abs/2206.06522) | [link](https://github.com/ucinlp/autoprompt) |
 | 2021.11 | **Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling** |  ECCV'22 | [link](https://arxiv.org/abs/2111.03930) | [link](https://github.com/gaopengcuhk/Tip-Adapter) |
 | 2021.10 | **CLIP-Adapter: Better Vision-Language Models with Feature Adapters** | IJCV'23  | [link](https://arxiv.org/abs/2110.04544) | [link](https://github.com/gaopengcuhk/CLIP-Adapter) |
-| 2023.03 | **Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens** | CVPR'23  | [link](https://arxiv.org/abs/2303.14865) | [link](https://github.com/yuxiaochen1103/FDT) |
-| 2023.02 | **Side Adapter Network for Open-Vocabulary Semantic Segmentation** | CVPR'23  | [link](https://arxiv.org/abs/2302.12242) | [link](https://github.com/MendelXu/SAN) |
-| 2023.04 | **Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior Refinement** | ICCV'23  | [link](https://arxiv.org/abs/2304.01195) | [link](https://github.com/yangyangyang127/APE) |
-| 2022.11 | **Task Residual for Tuning Vision-Language Models** | CVPR'23  | [link](https://arxiv.org/abs/2211.10277) | [link](https://github.com/geekyutao/TaskRes) |
-| 2023.11 | **Meta-Adapter: An Online Few-shot Learner for Vision-Language Model** | NeurIPS'23  | [link](https://arxiv.org/abs/2311.03774) | [link](https://github.com/ArsenalCheng/Meta-Adapter) |
-| 2023.09 | **GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph** | NeurIPS'23  | [link](https://arxiv.org/abs/2309.13625) | [link](https://github.com/lixinustc/GraphAdapter) |
-| 2024.04 | **Conditional Prototype Rectification Prompt Learning** | TCSVT'25  | [link](https://arxiv.org/abs/2404.09872) | [link](https://github.com/chenhaoxing/CPR) |
+| 2019.02 | **Parameter-Efficient Transfer Learning for NLP** | ICML'19  | [link](https://arxiv.org/abs/1902.00751) | [link](https://github.com/cs-mshah/Adapter-Bert) |
 
 
 #### Prompt Tuning
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2020.10 | **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts** | EMNLP'20  | [link](https://arxiv.org/abs/2010.15980) | [link](https://github.com/ucinlp/autoprompt) |
-| 2019.11 | **How Can We Know What Language Models Know?** | TACL'20  | [link](https://arxiv.org/abs/1911.12543) | [link](https://github.com/jzbjyb/LPAQA) |
-| 2021.01 | **Prefix-Tuning: Optimizing Continuous Prompts for Generation** | ACL'21  | [link](https://arxiv.org/abs/2101.00190) | [link](http://github.com/XiangLi1999/PrefixTuning) |
-| 2021.09 | **Learning to prompt for vision-language models** |  IJCV'22  | [link](https://arxiv.org/abs/2109.01134) | [link](https://github.com/KaiyangZhou/CoOp) |
+| 2024.03 | **PromptKD: Unsupervised Prompt Distillation for Vision-Language Models** |  CVPR'24  | [link](https://arxiv.org/abs/2403.02781) | [link](https://github.com/zhengli97/PromptKD) |
+| 2024.03 | **Domain-agnostic mutual prompting for unsupervised domain adaptation** |  CVPR'24  | [link](https://arxiv.org/abs/2403.02899) | [link](https://github.com/TL-UESTC/DAMP) |
+| 2024.01 | **Learning to prompt with text only supervision for vision-language models** |  AAAI'25  | [link](https://arxiv.org/abs/2401.02418) | [link](https://github.com/muzairkhattak/ProText) |
+| 2023.11 | **ArGue: Attribute-guided prompt tuning for vision-language models** |  CVPR'24  | [link](https://arxiv.org/abs/2311.16494) | [link](https://github.com/xytian1008/ArGue) |
+| 2023.09 | **Dept: Decoupled prompt tuning** |  CVPR'24  | [link](https://arxiv.org/abs/2309.07439) | [link](https://github.com/Koorye/DePT) |
+| 2023.09 | **Distribution-aware prompt tuning for vision-language models** |  ICCV'23  | [link](https://arxiv.org/abs/2309.03406) | [link](https://github.com/mlvlab/DAPT) |
+| 2023.08 | **Knowledge-aware prompt tuning for generalizable vision-language models** |  ICCV'23  | [link](https://arxiv.org/abs/2308.11186) | - |
+| 2023.07 | **Self-regulating prompts: Foundational model adaptation without forgetting** |  ICCV'23  | [link](https://arxiv.org/abs/2307.06948) | [link](https://github.com/muzairkhattak/PromptSRC) |
+| 2023.03 | **Visual-language prompt tuning with knowledge-guided context optimization** |  CVPR'23  | [link](https://arxiv.org/abs/2303.13283) | [link](https://github.com/htyao89/KgCoOp) |
+| 2022.10 | **MaPLe: Multi-modal prompt learning** |  CVPR'23  | [link](https://arxiv.org/abs/2210.03117) | [link](https://github.com/muzairkhattak/multimodal-prompt-learning) |
+| 2022.10 | **Prompt learning with optimal transport for vision-language models** |  ICLR'23  | [link](https://arxiv.org/abs/2210.01253) | [link](https://github.com/CHENGY12/PLOT) |
+| 2022.06 | **Dualcoop: Fast adaptation to multi-label recognition with limited annotations** |  NeurIPS'22  | [link](https://arxiv.org/abs/2206.09541) | [link](https://github.com/sunxm2357/DualCoOp) |
+| 2022.05 | **Prompt-aligned Gradient for Prompt Tuning** |  ICCV'23  | [link](https://arxiv.org/abs/2205.14865) | [link](https://github.com/BeierZhu/Prompt-align) |
 | 2022.03 | **Visual prompt tuning** |  ECCV'22  | [link](https://arxiv.org/abs/2203.12119) | [link](https://github.com/KMnP/vpt) |
 | 2022.03 | **Conditional prompt learning for vision-language models** |  CVPR'22  | [link](https://arxiv.org/abs/2203.05557) | [link](https://github.com/KaiyangZhou/CoOp) |
-| 2022.06 | **Dualcoop: Fast adaptation to multi-label recognition with limited annotations** |  NeurIPS'22  | [link](https://arxiv.org/abs/2206.09541) | [link](https://github.com/sunxm2357/DualCoOp) |
-| 2023.08 | **Knowledge-aware prompt tuning for generalizable vision-language models** |  ICCV'23  | [link](https://arxiv.org/abs/2308.11186) | - |
-| 2022.05 | **Prompt-aligned Gradient for Prompt Tuning** |  ICCV'23  | [link](https://arxiv.org/abs/2205.14865) | [link](https://github.com/BeierZhu/Prompt-align) |
-| 2022.10 | **Prompt learning with optimal transport for vision-language models** |  ICLR'23  | [link](https://arxiv.org/abs/2210.01253) | [link](https://github.com/CHENGY12/PLOT) |
-| 2023.03 | **Visual-language prompt tuning with knowledge-guided context optimization** |  CVPR'23  | [link](https://arxiv.org/abs/2303.13283) | [link](https://github.com/htyao89/KgCoOp) |
-| 2023.07 | **Self-regulating prompts: Foundational model adaptation without forgetting** |  ICCV'23  | [link](https://arxiv.org/abs/2307.06948) | [link](https://github.com/muzairkhattak/PromptSRC) |
-| 2022.10 | **MaPLe: Multi-modal prompt learning** |  CVPR'23  | [link](https://arxiv.org/abs/2210.03117) | [link](https://github.com/muzairkhattak/multimodal-prompt-learning) |
-| 2023.09 | **Distribution-aware prompt tuning for vision-language models** |  ICCV'23  | [link](https://arxiv.org/abs/2309.03406) | [link](https://github.com/mlvlab/DAPT) |
-| 2024.03 | **PromptKD: Unsupervised Prompt Distillation for Vision-Language Models** |  CVPR'24  | [link](https://arxiv.org/abs/2403.02781) | [link](https://github.com/zhengli97/PromptKD) |
-| 2024.01 | **Learning to prompt with text only supervision for vision-language models** |  AAAI'25  | [link](https://arxiv.org/abs/2401.02418) | [link](https://github.com/muzairkhattak/ProText) |
-| 2023.09 | **Dept: Decoupled prompt tuning** |  CVPR'24  | [link](https://arxiv.org/abs/2309.07439) | [link](https://github.com/Koorye/DePT) |
-| 2023.11 | **ArGue: Attribute-guided prompt tuning for vision-language models** |  CVPR'24  | [link](https://arxiv.org/abs/2311.16494) | [link](https://github.com/xytian1008/ArGue) |
-| 2024.03 | **Domain-agnostic mutual prompting for unsupervised domain adaptation** |  CVPR'24  | [link](https://arxiv.org/abs/2403.02899) | [link](https://github.com/TL-UESTC/DAMP) |
+| 2021.09 | **Learning to prompt for vision-language models** |  IJCV'22  | [link](https://arxiv.org/abs/2109.01134) | [link](https://github.com/KaiyangZhou/CoOp) |
+| 2021.01 | **Prefix-Tuning: Optimizing Continuous Prompts for Generation** | ACL'21  | [link](https://arxiv.org/abs/2101.00190) | [link](http://github.com/XiangLi1999/PrefixTuning) |
+| 2020.10 | **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts** | EMNLP'20  | [link](https://arxiv.org/abs/2010.15980) | [link](https://github.com/ucinlp/autoprompt) |
+| 2019.11 | **How Can We Know What Language Models Know?** | TACL'20  | [link](https://arxiv.org/abs/1911.12543) | [link](https://github.com/jzbjyb/LPAQA) |
+
 
 
 ### Reparameterization Tuning
