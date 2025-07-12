@@ -68,7 +68,7 @@ Multi-modal Large Language Models (MLLMs) integrate visual and linguistic reason
 | 2022.11 | **Task Residual for Tuning Vision-Language Models** | CVPR'23  | [link](https://arxiv.org/abs/2211.10277) | [link](https://github.com/geekyutao/TaskRes) |
 | 2023.11 | **Meta-Adapter: An Online Few-shot Learner for Vision-Language Model** | NeurIPS'23  | [link](https://arxiv.org/abs/2311.03774) | [link](https://github.com/ArsenalCheng/Meta-Adapter) |
 | 2023.09 | **GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph** | NeurIPS'23  | [link](https://arxiv.org/abs/2309.13625) | [link](https://github.com/lixinustc/GraphAdapter) |
-| 2024.04 | **Conditional Prototype Rectification Prompt Learning** | arXiv  | [link](https://arxiv.org/abs/2404.09872) | [link](https://github.com/chenhaoxing/CPR) |
+| 2024.04 | **Conditional Prototype Rectification Prompt Learning** | arXiv'24  | [link](https://arxiv.org/abs/2404.09872) | [link](https://github.com/chenhaoxing/CPR) |
 
 
 #### Prompt Tuning
